@@ -44,7 +44,7 @@ Raycasting "3D" renderer. Wolfenstein vibes on a school budget.
 - [**CPP Modules(00-04)**](https://github.com/mcatalan15/cpp-modules)  
 C++ from zero to templates. RAII, containers, and compile errors.  
 
-- [**NetPractice**](https://github.com/mcatalan15/netpractice)  
+- [**NetPractice**]
 Network configuration drills. Subnet masks will haunt you.  
 
 ### Rank 03
@@ -71,7 +71,7 @@ Reimplement `printf` with variadic args. Handle conversions like a boss.
 - [**get_next_line**](https://github.com/mcatalan15/get_next_line)  
 Read file descriptors line by line. Static variables enter the chat.  
 
-- [**Born2beroot**](https://github.com/mcatalan15/born2beroot)  
+- [**Born2beroot**]
 Set up a Debian VM with SSH, sudo, and strict rules. First sysadmin tears.  
 
 ### Rank 00
