@@ -11,15 +11,15 @@
 ---
 
 ## 🛠️ **Now Working On**  
-### [**KFS-1**](https://github.com/mcatalan15/kfs-1) 🚧  
-↳ *Outer Core* | *File systems & kernel modules, oh my!*  
+### [**Inception-of-Things**](https://github.com/mrlouf/Inception-of-Things) 🚧  
+↳ *Outer Core* | *Kubernetes and Vagrant!*  
 
 ---
 
 ### **Outer Core**  
 | Project | Description |  
 |---------|-------------|  
-| [**KFS-1**](https://github.com/mcatalan15/kfs-1) 🧠 | *Journey into the kernel’s soul.* |  
+| [**Inception-of-Things**](https://github.com/mrlouf/Inception-of-Things) 🧠 | *Journey into the kubernetes’s soul.* |  
 
 ## 📚 **42 Common Core Projects**  
 
