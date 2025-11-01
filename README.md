@@ -1,41 +1,41 @@
 # 🌟 42 Barcelona | mcatalan  
 
-> *"The code that makes you cry today will make you laugh tomorrow."*  
-> 📍 Born2Code at [42 Barcelona](https://www.42barcelona.com/)  
-> ✨ **Skills**: C | Python | Shell | Algorithms  
-
-🔗 **Connect**:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail)](mailto:you@email.com)  
+> *"The code that makes you cry today will make you laugh tomorrow."* > 📍 Born2Code at [42 Barcelona](https://www.42barcelona.com/)  
+> ✨ **Skills**: C/C++ | Docker | Kubernetes | TypeScript | JavaScript | Python | Shell | Algorithms  
 
 ---
-
 ## 🛠️ **Now Working On**  
-### [**Inception-of-Things**](https://github.com/mrlouf/Inception-of-Things) 🚧  
-↳ *Outer Core* | *Kubernetes and Vagrant!*  
+### [**ft_linux**](https://github.com/mcatalan15/ft_linux) 🚧  
+↳ *Outer Core* | *Building a basic Linux distro for kernel development using LFS*  
 
----
 
-### **Outer Core**  
-| Project | Description |  
-|---------|-------------|  
-| [**Inception-of-Things**](https://github.com/mrlouf/Inception-of-Things) 🧠 | *Journey into the kubernetes’s soul.* |  
+<h2>👨‍💻 Outer Core Projects</h2>
 
-## 📚 **42 Common Core Projects**  
+### ⚙️ System administration
+- [**Inception-of-Things**](https://github.com/mrlouf/Inception-of-Things)  
+Journey into the kubernetes’s soul using Clusters, Vagrant, k3s, k3d, ArgoCD, Gitlab.
 
+### 🐧 UNIX
+- [**ft_linux**](https://github.com/mcatalan15/ft_linux)  
+Full-stack app with Pong, auth, and chat. TypeScript meets existential dread.
+
+### 🔒 Security
+
+<h2>📚 42 Common Core Projects</h2>
+  
 ### Rank 06
 - [**ft_transcendence**](https://github.com/mcatalan15/ft_transcendence)  
-Full-stack app with Pong, auth, and chat. TypeScript meets existential dread. 
+Full-stack app with Pong, auth, and chat. TypeScript meets existential dread.
 
-### Rank 05 
+### Rank 05  
 - [**ft_irc**](https://github.com/mcatalan15/ft_irc)  
 Custom IRC server in C++. RFC-compliant, sleep-deprivation-guaranteed.
 
 - [**CPP Modules(05-09)**](https://github.com/mcatalan15/cpp-modules)  
-C++ from zero to templates. RAII, containers, and compile errors. 
+C++ from zero to templates. RAII, containers, and compile errors.  
 
 - [**Inception**](https://github.com/mcatalan15/inception)  
-Dockerized services with NGINX and WordPress. YAML hell unlocked. 
+Dockerized services with NGINX and WordPress. YAML hell unlocked.  
 
 ### Rank 04
 - [**Cub3D**](https://github.com/mcatalan15/cub3d)  
@@ -77,10 +77,4 @@ Set up a Debian VM with SSH, sudo, and strict rules. First sysadmin tears.
 ### Rank 00
 - [**libft**](https://github.com/mcatalan15/libft)  
 Recode standard C functions from scratch. No libc, no shortcuts.  
- 
-
---- 
-
-### 🔥 **GitHub Stats**  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcatalan15&show_icons=true&theme=radical)  
-
+   
