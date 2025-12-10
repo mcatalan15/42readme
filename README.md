@@ -4,7 +4,9 @@
 > ✨ **Skills**: C/C++ | Docker | Kubernetes | TypeScript | JavaScript | Python | Shell | Algorithms  
 
 ---
-## 🛠️ **Now Working On**  
+## 🛠️ **Now Working On**
+### [**42sh**](https://github.com/mrlouf/42sh) 🚧  
+↳ *Outer Core* | *Building a bash shell in C* 
 ### [**ft_linux**](https://github.com/mcatalan15/ft_linux) 🚧  
 ↳ *Outer Core* | *Building a basic Linux distro for kernel development using LFS*  
 
